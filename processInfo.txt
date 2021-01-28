@@ -1,0 +1,16 @@
+
+drive 2 Is Now In The Memory
+drive 2 Is Now In The Ready Queue
+
+drive 2 Is Now In The  CPU Scheduler
+
+carState 2 Is Now In The Memory
+
+carState 2 Is Now In The Ready Queue
+
+This is the Turn Around Time of drive 2==>>12053
+-------------newProcess----------
+carState 2 Is Now In The  CPU Scheduler
+
+This is the Turn Around Time of carState 2==>>12057
+-------------------The Operating System Is Terminated-----------------
